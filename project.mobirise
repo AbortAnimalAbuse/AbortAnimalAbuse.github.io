@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2574,7 +2574,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "FULL SCREEN SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br>No matter how cute they are, <br>they aren't toys to play with.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -2617,7 +2617,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide13-1-2000x1272.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2645,7 +2645,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "FULL SCREEN SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br>No matter how cute they are, <br>they aren't toys to play with.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -2688,8 +2688,8 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide8-2000x1272.png",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/final-pics-2000x1272.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2699,7 +2699,7 @@
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "FULL SCREEN SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
                 "text": "<br><br><br>No matter how cute they are, <br>they aren't toys to play with.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
