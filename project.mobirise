@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2558,15 +2558,15 @@
           "_global": false,
           "_once": false,
           "_params": {
-            "slides__autoplay": true,
+            "slides__autoplay": false,
             "slides__autoplayInterval": "7000",
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/pqdukrxrjkmcfvq-800x450-nopad-600x337.jpg",
-                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/slide11-1-2000x1272.png",
+                "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2581,10 +2581,10 @@
                 "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-2707-514x575.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide7-3-2000x1272.jpg",
+                "active": true,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2598,10 +2598,10 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/injury-cruelty-to-animals-animal-welfare-injured-1119405-1280x851.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide10-2-2000x1272.png",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2616,25 +2616,25 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/76aceb5097324d56aebb8a2eff00cf56-807x500.jpg",
+                "image": "@PROJECT_PATH@/assets/images/slide13-1-2000x1272.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-1",
-                "customStyle2": "display-7",
+                "customStyle2": "display-5",
                 "customStyle3": "display-4",
                 "title": "FULL SCREEN SLIDER",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "center",
-                "text": "<p><br><br></p><br><br><br><br><br><br><br><p>Animals are always there when we need them. They give themselves for our sake, be it for entertainment and commerce. A decent meal and a comfortable place to rest is what we can give to them.&nbsp;</p>",
-                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
-                "overlayOpacity": "0.3"
+                "text": "",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">CLICK TO WATCH VIDEO</a>",
+                "overlayOpacity": "0.4"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/y-1280x720.png",
+                "image": "@PROJECT_PATH@/assets/images/slide8-2000x1272.png",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2647,15 +2647,51 @@
                 "title": "FULL SCREEN SLIDER",
                 "overlay": true,
                 "contentAlign": "center",
+                "text": "<br><br><br>No matter how cute they are, <br>they aren't toys to play with.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.4"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide14-1-2000x1272.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
                 "text": "<br><br><br><br><br><br><br><br>Adopt. Save. Rescue. Be Loved",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/z-1-1280x720.png",
+                "image": "@PROJECT_PATH@/assets/images/slide12-2000x1272.png",
                 "active": false,
-                "showButtons": true,
-                "showText": true,
+                "showButtons": false,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
+                "customStyle1": "display-1",
+                "customStyle2": "display-5",
+                "customStyle3": "display-4",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": false,
+                "contentAlign": "center",
+                "text": "<br><br><br><br><br><br><br><br>Adopt. Save. Rescue. Be Loved",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slide8-2000x1272.png",
+                "active": false,
+                "showButtons": false,
+                "showText": false,
                 "showTitle": false,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
@@ -2665,8 +2701,8 @@
                 "title": "FULL SCREEN SLIDER",
                 "overlay": true,
                 "contentAlign": "center",
-                "text": "",
-                "buttons": " <a data-app-btn=\"true\" class=\"btn  btn-white-outline display-4\" data-app-placeholder=\"Type Text\" href=\"page4.html\" data-toolbar=\"-mbrBtnMove\">CLICK TO WATCH VIDEO</a>",
+                "text": "<br><br><br>No matter how cute they are, <br>they aren't toys to play with.",
+                "buttons": "<a data-app-btn=\"true\" class=\"btn btn-success\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
                 "overlayOpacity": "0.4"
               }
             ]
