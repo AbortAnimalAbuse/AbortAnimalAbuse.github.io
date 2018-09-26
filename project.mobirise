@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2582,7 +2582,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide7-3-2000x1272.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2609,7 +2609,7 @@
                 "customStyle2": "display-7",
                 "customStyle3": "display-4",
                 "title": "IMAGE SLIDE",
-                "overlay": true,
+                "overlay": false,
                 "contentAlign": "right",
                 "text": "<br><br><br><br><br><br><br><br><br><br>Endangered or not they deserve to be cared of. <br>If we are putting them behind bars, we should take the responsibility of aiding them.",
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>",
@@ -2617,7 +2617,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide13-1-2000x1272.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
