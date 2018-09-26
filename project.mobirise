@@ -89,7 +89,7 @@
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png",
     "favicon": "",
-    "noImageResize": ""
+    "noImageResize": "true"
   },
   "pages": {
     "index.html": {
@@ -2560,7 +2560,7 @@
           "_params": {
             "slides__autoplay": false,
             "slides__autoplayInterval": "7000",
-            "slides__showBullets": false,
+            "slides__showBullets": true,
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/slide11-1-2000x1272.png",
