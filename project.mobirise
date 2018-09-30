@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page4.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -2578,7 +2578,7 @@
             "slides__showBullets": false,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/slide11-1-2000x1272.png",
+                "image": "@PROJECT_PATH@/assets/images/slide1.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2597,7 +2597,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/slide7-3-2000x1272.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -2613,7 +2613,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" data-app-placeholder=\"Type Text\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide10-2-2000x1272.png",
+                "image": "@PROJECT_PATH@/assets/images/slide2.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2631,8 +2631,8 @@
                 "overlayOpacity": "0.2"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/slide13-1-2000x1272.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/slide4.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
